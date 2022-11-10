@@ -1,7 +1,7 @@
+import React from "react";
 import Card from "../card/Card";
 import { useTodo } from "../../store/hook";
 import { OPTION } from "../../store/constant";
-import React from "react";
 import { RiCloseLine } from "react-icons/ri";
 
 const Container: React.FC = () => {
